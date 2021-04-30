@@ -2,10 +2,20 @@
 # Hello World!
 ## 二级标题
 #### 四级标题
+
 [goole](https://www.google.com.hk/?hl=zh-CN)
+
 <https://github.com/Can-yang/-/blob/main/link.md>
+
 ![图片一](1.png)
+
 ![图片二](https://www.jlu.edu.cn/images/logo.jpg)
+
+```javascript
+$(document).ready(function () {
+    alert('RUNOOB');
+});
+```
 
 鲁迅曾经说过
 >世上本没有路，走的人多了，也就成了路。
