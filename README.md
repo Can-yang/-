@@ -30,4 +30,4 @@
 
 ![图片一](1.png)
 
-![图片二](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.jiemodui.com%2FN%2F102514.html&psig=AOvVaw2Q3A5NWOMxK1QKzDnKgeK9&ust=1619844265864000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCnvKeUpfACFQAAAAAdAAAAABAD)
+![图片二](https://www.jlu.edu.cn/images/logo.jpg)
