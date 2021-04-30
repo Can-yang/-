@@ -7,9 +7,9 @@
 ![图片一](1.png)
 ![图片二](https://www.jlu.edu.cn/images/logo.jpg)
 
-The quote 
->Somewhere, something incredible is waiting to be known
-has been ascribed to Carl Sagan.
+鲁迅曾经说过
+>世上本没有路，走的人多了，也就成了路。
+
 + 第一项
 + 第二项
 + 第三项
@@ -27,8 +27,11 @@ has been ascribed to Carl Sagan.
 | 单元格3  | 单元格4 |
 | 单元格5  | 单元格6 |
 | 单元格7  | 单元格8 |
+
 **粗体字**
+
 *斜体文本*
+
 ~~删除线~~
 
 *****
