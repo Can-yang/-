@@ -7,7 +7,7 @@
 
 <https://github.com/Can-yang/-/blob/main/link.md>
 
-![图片一](1.png)
+![图片一](1.jpg)
 
 ![图片二](https://www.jlu.edu.cn/images/logo.jpg)
 
